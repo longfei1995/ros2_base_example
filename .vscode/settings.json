@@ -1,0 +1,7 @@
+{
+    // "cmake.sourceDirectory": "/home/hyh/coder/gac/test_ws/src/plan_node"
+    "cmake.sourceDirectory": "/home/hyh/coder/gac/test_ws/src/ctrl_node",
+    "cSpell.words": [
+        "RCLCPP"
+    ]
+}
